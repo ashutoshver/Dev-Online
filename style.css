@@ -154,3 +154,11 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
 }
+
+
+
+.yellow-img{
+    background-image: url(yellow.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
