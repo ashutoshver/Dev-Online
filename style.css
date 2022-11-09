@@ -68,11 +68,11 @@ body {
 
 /* section-1 */
 
-.middle-1{
+.content-box{
     background-image: url(bg-1.png);
     background-size: cover;
     background-position: fixed bottom;
-   height: 500px;
+   height: 700px;
 }
 
 .content{
@@ -112,3 +112,14 @@ body {
 /* section-1 end */
 
 
+.features{
+    margin-top: 10rem;
+}
+.features h2{
+    text-align: center;
+    font-size: 2.5rem;
+}
+.features p{
+    text-align: center;
+    
+}
