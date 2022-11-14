@@ -118,6 +118,7 @@ body {
 .features h2{
     text-align: center;
     font-size: 2.5rem;
+    font-weight: lighter;
 }
 .features p{
     text-align: center;
@@ -161,4 +162,10 @@ body {
     background-image: url(yellow.jpg);
     background-attachment: fixed;
     background-size: cover;
+}
+.yellow-cont{
+    height: 22rem;
+}
+.like{
+    margin-top: 2rem;
 }
